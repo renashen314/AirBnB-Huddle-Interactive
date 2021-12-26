@@ -1,0 +1,44 @@
+/* Medium Screen Typography - Scale: 1.333 Perfect Fourth (thanks http://type-scale.com/)  */
+  
+@media screen and (min-width: 42em) {
+  
+    h1, .h1 { letter-spacing: -2px; }
+
+    h1, .h1 {font-size: 3.157em;}
+
+    h2, .h2 {font-size: 2.369em;}
+
+    h3, .h3 {font-size: 1.777em;}
+
+    h4, .h4 {font-size: 1.333em;}
+
+    p { font-size:1.0625em; }
+
+    p.intro { font-size:1.3em; }
+
+}
+
+
+/* Large Screen Typography  - Scale: 1.414 Augmented Fourth (thanks http://type-scale.com/)  */
+
+@media screen and (min-width: 72em) {
+
+    h1 { letter-spacing: -3px; }
+
+    h1, .h1 { margin-bottom: 0.35em; font-size: 3.998em; }
+
+    h2, .h2  { font-size: 2.827em; }
+
+    h3, .h3 { font-size: 1.999em; }
+
+    h4, .h4 { font-size: 1.414em; }
+
+    p { font-size:1.125em; }
+
+    p.intro { font-size:1.4em; }
+
+}
+
+
+
+
